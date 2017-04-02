@@ -65,7 +65,7 @@ Allows the user to create and manage databases and reports that provides the use
 
 ### **1.01: Creating a document**
 To _**create**_ a **new document** within the _LibreOffice_ suite:
-1. **_Open_**any _LibreOffice_ program
+1. **_Open_** any _LibreOffice_ program
 2. **_Locate_** and _select_ the **“File”** tab at the top left of the program.
 3. _**Select**_ the **“New”** category from the drop-down menu.
 4. **_Click_** one of the following depending on which type of document that needs to be created:
@@ -75,7 +75,7 @@ To _**create**_ a **new document** within the _LibreOffice_ suite:
 ### **1.02: Page layout of document**
 
 #### **Margins**
-_LibreOffice_ comes set with __1” margins__, which are most common within academic writing styles.
+_LibreOffice_ comes set with _1” margins_, which are most common within academic writing styles.
 
 **To edit margins:**
 1. **_Open_** a **Writer** document with _LibreOffice_.
@@ -134,7 +134,7 @@ Header / Footer / Page count
 _**Blackboard**_ natively **supports** **_.odf (OpenDocument) files_**, so uploading is exactly the same as any **_word (.docx) document_**. **To do this:**
 1. **_Click_** **“Upload from My Computer”** on **_Blackboard_**.
 2. **_Select_** the **LibreOffice** file to **_upload_**
-3.**__Click__** **“upload”**.
+3. **_Click_** **“upload”**.
 
 ## **1.06: Conclusion**
 
