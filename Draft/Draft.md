@@ -3,10 +3,10 @@
 ## **Introduction**
 
 ### **Purpose**
-To create an informative outline targeted at first-year college students that will aim to explain how to use LibreOffice  in a Microsoft Office dominated university, with an emphasis on Microsoft Office compatibility and overall usefulness in 100-level writing courses.
+To create an informative outline targeted at first-year college students that will aim to explain how to use _LibreOffice_ in a _Microsoft Office_ dominated university, with an emphasis on Microsoft Office compatibility and overall usefulness in 100-level writing courses.
 
 ### **Audience**
-College students enrolled in a first-year writing seminar in which open-source software, such as LibreOffice’s Writer, can be used to serve as a student’s primary word processing application.
+College students enrolled in a first-year writing seminar in which open-source software, such as _LibreOffice’s_ **Writer**, can be used to serve as a student’s primary word processing application.
 
 ### **Our Team**
 Grace Preszler (Team Leader), Hunter Sudduth, Lucas Spencer
@@ -69,12 +69,8 @@ To _**create**_ a **new document** within the _LibreOffice_ suite:
 2. **_Locate_** and _select_ the **“File”** tab at the top left of the program.
 3. _**Select**_ the **“New”** category from the drop-down menu.
 4. **_Click_** one of the following depending on which type of document that needs to be created:
-**a. Text Document**
-**b. Spreadsheet**
-**c. Presentation**
-**d. Drawing**
-**e. Database**
-#### f. **New document is now created.** 
+**a. Text Document** **b. Spreadsheet** **c. Presentation** **d. Drawing** **e. Database**
+5. **New document is now created.** 
 
 ### **1.02: Page layout of document**
 
@@ -82,13 +78,13 @@ To _**create**_ a **new document** within the _LibreOffice_ suite:
 _LibreOffice_ comes set with __1” margins__, which are most common within academic writing styles.
 
 **To edit margins:**
-1. ***_Open_** a **Writer** document with _LibreOffice_.
+1. **_Open_** a **Writer** document with _LibreOffice_.
 2. **_Locate_** the **margin slider** **_directly above the white space of a document_**. 
 3. **_Select_** either the **left or right slider** and **_adjust margins accordingly_**.
 
 #### **Text alignment**
 To align text:
-1. _**Locate**_ the __**text alignment buttons on the main toolbar**__
+1. **_Locate_** the __**text alignment buttons on the main toolbar**__
 2. **_Select_** either _**left alignment, center alignment, right alignment, or justified alignment**_.
 
 **Alternatively:**
