@@ -1,6 +1,6 @@
 #  **Final Draft**
 
-## Using LibreOffie in a University Writing Course
+## Using LibreOffice in a University Writing Course
 
 ### Grace Preszler, Lucas Spencer, and Hunter Sudduth
 
