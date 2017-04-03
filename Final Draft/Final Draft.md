@@ -19,15 +19,15 @@ Grace Preszler (Team Leader), Hunter Sudduth, Lucas Spencer
 
 # **Beginning of Draft Content**
 
-## **What is LibreOffice?**
+## **LibreOffice background**
 
-### **Who was it created by?**
+### **Creation**
 __LibreOffice__ is a continuation and reoptimization of the Apache OpenOffice open-source word processing platform by __The Document Foundation__. __The Document Foundation__ is a non-profit organization that promotes open-source document handling software. The __LibreOffice__ suite comprises programs for word processing, the creation and editing of spreadsheets, slideshows, diagrams and drawings, working with databases, and composing mathematical formulae. It is available in over 110 languages.
 
-### **When was it created?**
+### **Release Date**
 The initial release date for __LibreOffice__ was January 25th, 2011. Forked from [OpenSource.org](https://opensource.org/) in 2010. 
 
-### **Why was it created?** (purpose)
+### **Mission Statement** (purpose)
 __LibreOffice__ was created so that free and open-source software could continue to serve those in place of popular word-processors. Created also for individuals needing an alternative to __Microsoft Office__, as __LibreOffice__ is extremely similar to __Microsoft Office__. 
 
 ## ***How to download LibreOffice***
@@ -35,8 +35,8 @@ __LibreOffice__ was created so that free and open-source software could continue
 [**Visit the LibreOffice website**](https://www.libreoffice.org/download/download/)
 
 ## **Basic Tools in __LibreOffice__**
-
-### **Home Page** (Elaborate on what each tab offers)
+### Image
+### **Home Page** 
 
 #### **Open File**
 This tab functions in the same way that opening a file in any program works. Specifically, with _LibreOffice_, the package can open most _Microsoft Word_ documents and spreadsheets.
@@ -50,21 +50,27 @@ This tab shows several of the most recent documents opened within a _LibreOffice
 ### **Templates**
 
 #### **Writer Document**
+## Image
 This is similar to a _Microsoft Word_ document; however, _LibreOffice_ does not save documents in the same format that _Microsoft Word_ does **(.docx)**. Instead, **_LibreOffice_ utilizes the _Open Document_ File (.odf)** to save documents. _LibreOffice_ also has similar text-editing tools to _Microsoft Word_ and a variety of other options for modifying a document, such as formatting options, text and design styles, the ability to create and insert tables, spell checking software, word count, and other tools that would be expected within a word-processor. Has extensive WYSIWYG (what you see is what you get) word processing capabilities.
 
 #### **Calc Spreadsheet**
+## Image
 This spreadsheet application serves as an open-source alternative to programs like _Microsoft Excel_ and _Google Sheets_. The program is similar to _Excel 07_, in terms of features and design.
 
 #### **Impress Presentation**
+## Image
 This is the _LibreOffice_ version of _Microsoft Powerpoint_ or other similar presentation software. This program allows for users to create and add templates, insert images, add animations, and manage other visual design effects within the presentation. **Presentations are exported as SWF files**, which allow any computer with _Adobe Flash Player_ to view the file. 
 
 #### **Draw Drawing**
+## Image
 Similar to _Microsoft Visio_. This is **a vector graphics editor and diagramming tool** that is compatible to _CorelDRAW_. This aspect of _LibreOffice_ is not applicable to the chosen project. 
 
 #### **Math Formula**
+## Image
 Application designed for the user to create and edit mathematical formulas. This aspect of _LibreOffice_ is not applicable to the chosen project. 
 
 #### **Base Database**
+## Image
 Allows the user to create and manage databases and reports that provides the user easy access to data. Very similar to _Microsoft Access_. This aspect of _LibreOffice_ is not applicable to the chosen project. 
 
 ## **“Fake Project”**
@@ -102,11 +108,12 @@ b. Right,
 c. Center, or
 d. Justified**
 
-#### **Page orientation**
-
 ### **1.03: Organization of document**
-Main title
-Body text (Bold, underline, italics)
+Body:
+1. Many of the formatting features needed for academic work are available using _LibreOffice_. And edits to body and text can be made using **Bold**, __Underline__, and _Italics_. These features can be found at the **main toolbar** located near the _font_ and **sizing**
+2. Bullet points can be used to organize a document. There are two options for organizing your document: 
+a: **Toggle bullet list (normal bullet list)
+b: Toggle number list (numerals)**. 
 Bullet points
 Header / Footer / Page count
 
@@ -146,6 +153,7 @@ _**Blackboard**_ natively **supports** **_.odf (OpenDocument) files_**, so uploa
 
 ### **Why is _LibreOffice_ useful?**
 
-### **How it can be useful to you (freshman in 101 writing)?**
+_LibreOffice_ serves as an open-source alternative to popular Office applications and word-processors such as _Microsoft Office_ and _Google Docs_. The features contained in the _LibreOffice_ program package allow users to create, edit, and export word documents, spreadsheets, presentations, drawings, and databases. **For a first-year college student**, this package could be useful as it provides a wide array of services for “_free_” (LibreOffice is sustained on donations). For students struggling financially, looking to save a few hundred dollars, or finding themselves hating the competition, _LibreOffice_ offers an all-in-one package that can be used to accommodate the needs of first-year writing students. 
 
-### **How to get started and be a _LibreOffice_ user.**
+
+### End Document
