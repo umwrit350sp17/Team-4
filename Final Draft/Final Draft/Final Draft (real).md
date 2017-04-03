@@ -35,7 +35,7 @@ __LibreOffice__ was created so that free and open-source software could continue
 [**Visit the LibreOffice website**](https://www.libreoffice.org/download/download/)
 
 ## **Basic Tools in __LibreOffice__**
-### Image
+![Main Pic](Assets/main.png)
 ### **Home Page** 
 
 #### **Open File**
@@ -137,19 +137,14 @@ Header / Footer / Page count
 1. Double click the chart
 2. Use the _**chart toolbar**_ to edit the type of chart, dataset values, names, display types, colors, etc. 
 
-**Inserting Active URLs/hyperlinks:**
 
-### **1.04: Finalizing your document**
-
-#### **Exporting (.doc or PDF)**
-
-### **1.05Uploading to Blackboard**
+### **1.04: Uploading to Blackboard**
 _**Blackboard**_ natively **supports** **_.odf (OpenDocument) files_**, so uploading is exactly the same as any **_word (.docx) document_**. **To do this:**
 1. **_Click_** **“Upload from My Computer”** on **_Blackboard_**.
 2. **_Select_** the **LibreOffice** file to **_upload_**
 3. **_Click_** **“upload”**.
 
-## **1.06: Conclusion**
+## **1.05: Conclusion**
 
 ### **Why is _LibreOffice_ useful?**
 
