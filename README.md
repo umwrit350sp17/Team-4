@@ -4,7 +4,7 @@
 
 **1. Progress Report 2.md, 
 2. Project Draft, and 
-3. Project Outline. md**
+3. Project Outline.md**
 
 ## _**Navigating this repository**_:
 
