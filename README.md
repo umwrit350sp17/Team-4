@@ -23,7 +23,17 @@
 _Located within "**Draft**" folder._
 
 Folder contents:
-1. Project Draft
-2. Audience Profile
-3. READ.me
+1. Project Draft.md
+3. Audience Profile.md
+2. README.md
+
+### Final Draft
+
+_located within **Final Draft** folder._
+
+Folder contents:
+1. Assets folder
+2. Audience Profile.md
+3. Final Draft.md
+4. README.md
 
