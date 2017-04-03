@@ -50,30 +50,35 @@ This tab shows several of the most recent documents opened within a _LibreOffice
 ### **Templates**
 
 #### **Writer Document**
-## Image
+![Writer](Assets/Writer.png)
+
 This is similar to a _Microsoft Word_ document; however, _LibreOffice_ does not save documents in the same format that _Microsoft Word_ does **(.docx)**. Instead, **_LibreOffice_ utilizes the _Open Document_ File (.odf)** to save documents. _LibreOffice_ also has similar text-editing tools to _Microsoft Word_ and a variety of other options for modifying a document, such as formatting options, text and design styles, the ability to create and insert tables, spell checking software, word count, and other tools that would be expected within a word-processor. Has extensive WYSIWYG (what you see is what you get) word processing capabilities.
 
 #### **Calc Spreadsheet**
-## Image
+![Calc](Assets/Calc.png)
+
 This spreadsheet application serves as an open-source alternative to programs like _Microsoft Excel_ and _Google Sheets_. The program is similar to _Excel 07_, in terms of features and design.
 
 #### **Impress Presentation**
-## Image
+![Impress](Assets/Impress.jpg)
+
 This is the _LibreOffice_ version of _Microsoft Powerpoint_ or other similar presentation software. This program allows for users to create and add templates, insert images, add animations, and manage other visual design effects within the presentation. **Presentations are exported as SWF files**, which allow any computer with _Adobe Flash Player_ to view the file. 
 
 #### **Draw Drawing**
-## Image
+![Draw](Assets/draw.png)
+
 Similar to _Microsoft Visio_. This is **a vector graphics editor and diagramming tool** that is compatible to _CorelDRAW_. This aspect of _LibreOffice_ is not applicable to the chosen project. 
 
 #### **Math Formula**
-## Image
+![Math](Assets/math.png)
 Application designed for the user to create and edit mathematical formulas. This aspect of _LibreOffice_ is not applicable to the chosen project. 
 
 #### **Base Database**
-## Image
+![Base](Assets/base.jpg)
+
 Allows the user to create and manage databases and reports that provides the user easy access to data. Very similar to _Microsoft Access_. This aspect of _LibreOffice_ is not applicable to the chosen project. 
 
-## **“Fake Project”**
+## **“Walkthroughs”**
 
 ### **1.01: Creating a document**
 To _**create**_ a **new document** within the _LibreOffice_ suite:
