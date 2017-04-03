@@ -2,8 +2,8 @@
 
 ### Disclaimer: The following files are incorrectly organized within this repository, but were left intact due to this repository being a project graded on a timeline: 
 
-**1. Progress Report 2.md
-2. Project Draft
+**1. Progress Report 2.md, 
+2. Project Draft, and 
 3. Project Outline. md**
 
 ## _**Navigating this repository**_:
