@@ -1,4 +1,4 @@
-# **Team-4: We plan to create an informative outline targeted at first-year college students that will aim to explain how to use LibreOffice  in a Microsoft Office dominated university, with an emphasis on Microsoft Office compatibility and overall usefulness in 100-level writing courses.
+# Team-4: We plan to create an informative outline targeted at first-year college students that will aim to explain how to use LibreOffice  in a Microsoft Office dominated university, with an emphasis on Microsoft Office compatibility and overall usefulness in 100-level writing courses.
 
 ### Disclaimer: The following files are incorrectly organized within this repository, but were left intact due to this repository being a project graded on a timeline: 
 
