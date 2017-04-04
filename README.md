@@ -36,3 +36,15 @@ Folder contents:
 3. Final Draft.md
 4. README.md
 
+
+### Team Contributions
+
+1. **Grace Preszler**
+> Served as Team Leader for the project. Duties included: delegating tasks, organizing outline of project, uploading content to GitHub, and completing writing tasks such as progress reports and components of draft contents. 
+
+2. **Lucas Spencer**
+> Completed several team progress reports, helped organize workload, independently edited draft content via [Google Docs](https://docs.google.com/a/go.olemiss.edu/document/d/1_bPNOcOaTtymGSu7r-CH-IDklI1KFDuWIfcjoWa3ups/edit?usp=sharing), and initiated many discussions on Slack.
+
+3. **Hunter Sudduth**
+> Completed a team progress report, organized GitHub repository including draft, final draft, README content, assets, etc. Also, independently edited draft contents and reformatted original draft and other content into Markdown format to make it appropriate for this repository. 
+
